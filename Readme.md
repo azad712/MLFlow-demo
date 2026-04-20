@@ -14,7 +14,7 @@ Environment Setup :
   
   python -m ipykernel install --user --name=mlflow_env --display-name "Python (MLflow Env)"
   
-  Launch MLflow UI : 
+Launch MLflow UI : 
 
     mlflow ui
     
