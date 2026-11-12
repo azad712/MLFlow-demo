@@ -27,3 +27,11 @@ Launch MLflow UI :
     mlflow ui
     
     Open in browser: http://127.0.0.1:5000
+
+## MLflow Summary
+
+- The notebook demonstrates experiment tracking with MLflow.
+- It trains a Logistic Regression classifier on the Iris dataset.
+- Runs are grouped under the `Iris_Experiment` experiment.
+- MLflow records run details so experiments can be reviewed and compared.
+- Launch `mlflow ui` and open `http://127.0.0.1:5000` to view runs.
